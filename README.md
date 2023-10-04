@@ -4,7 +4,7 @@
 ![YO](https://i.imgur.com/aoNLEpX.jpeg)
 
 
-Me llamo Antonio Sánchez Bustos, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
+Me llamo Antonio Sánchez Bustos, Tengo 24 años vengo del Grado medio de Sistemas microinformaticos en red
 
 
 Hice el primer año de **_Desarrollo de aplicaciones multiplataforma_** pero no lo terminé.
