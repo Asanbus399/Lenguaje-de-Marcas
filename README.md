@@ -4,9 +4,9 @@
 ![YO](1668067889737.jpg)
 
 
-Me llamo Antonio Sánchez Bustos, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
+Me llamo **Antonio Sánchez Bustos**, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
 
-Hice el primer año de Desarrollo de aplicaciones multiplataforma pero no lo terminé.
+Hice el primer año de **_Desarrollo de aplicaciones multiplataforma_** pero no lo terminé.
 
 Me meti en este grado por que siempre me ha gustado la informatica pero en el Grado superior de DAM me vi saturado y me costaba mucho entenderlo y no habia manera y desisti tras 2 años de intentarlo y me meti aqui por que lo que se me atrancaba era la programacion.
 
