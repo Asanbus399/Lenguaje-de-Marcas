@@ -9,13 +9,22 @@ Me meti en este grado por que siempre me ha gustado la informatica pero en el Gr
 
 Sobre mis conocimientos en esta asignatura he visto de lenguaje de marcas los siguientes:
 
--XML y XSD
--HTML y CSS
--Xquery
--Boostrap
+-**XML** y **XSD**
+-**HTML** y **CSS**
+-**Xquery**
+-**Boostrap**
 
 Ademas se lo basico de Programas en java ya en orientacion a objetos es cuando me pierdo.
 
 
+Mis gustos son basicos me gustan los **_videojuegos_**, el tema de la ropa, me gusta mucho el cine y sobre todo viajar con mis amigos, Tambien me gusta mucho el tema del anime y manga.
 
-Mis gustos son basicos me gustan los videojuegos, el tema de la ropa, me gusta mucho el cine y sobre todo viajar con mis amigos. 
+
+
+#### **Mis Metas**
+
+Seria poder terminar el grado para poder empezar en el mundo laboral por que con el grado medio no he podido y como he dicho antes me gusta bastante trabajar en un entorno informatico y a poder ser telematico.
+
+
+#### **Link**
+(**Linkedin**)[https://www.linkedin.com/in/antonio-s%C3%A1nchez-bustos-291302269/]
