@@ -1,10 +1,11 @@
-## **Presentacion**
+# **Presentación**
 
 
 ![YO](1668067889737.jpg)
 
 
-<span style=¨color: Green¨>Me llamo **Antonio Sánchez Bustos**</span>, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
+###### Me llamoAntonio Sánchez Bustos, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
+
 
 Hice el primer año de **_Desarrollo de aplicaciones multiplataforma_** pero no lo terminé.
 
@@ -12,13 +13,13 @@ Me meti en este grado por que siempre me ha gustado la informatica pero en el Gr
 
 Sobre mis conocimientos en esta asignatura he visto de lenguaje de marcas los siguientes:
 
--**XML** y **XSD**.
+-<span style="Color:red">XML</span> y <span style="Color:green">XSD</span>.
 
--**HTML y **CSS**.
+-<span style="Color:purple">HTML</span> y <span style="Color:blue">CSS</span>.
 
--**Xquery**.
+-<span style="Color:yellow">Xquery</span>
 
--**Boostrap**.
+-<span style="Color:orange">Bootstrap</span>
 
 
 Ademas se lo basico de Programas en java ya en orientacion a objetos es cuando me pierdo.
@@ -28,10 +29,10 @@ Mis gustos son basicos me gustan los **_videojuegos_**, el tema de la ropa, me g
 
 
 
-#### **Mis Metas**
+##### **Mis Metas**
 
 Seria poder terminar el grado para poder empezar en el mundo laboral por que con el grado medio no he podido y como he dicho antes me gusta bastante trabajar en un entorno informatico y a poder ser telematico.
 
 
-#### **Link**
-[**Linkedin**](https://www.linkedin.com/in/antonio-s%C3%A1nchez-bustos-291302269/)
+##### **Link**
+[Linkedin](https://www.linkedin.com/in/antonio-s%C3%A1nchez-bustos-291302269/)
