@@ -12,10 +12,14 @@ Me meti en este grado por que siempre me ha gustado la informatica pero en el Gr
 
 Sobre mis conocimientos en esta asignatura he visto de lenguaje de marcas los siguientes:
 
--**XML** y **XSD**
--**HTML** y **CSS**
--**Xquery**
--**Boostrap**
+-**XML** y **XSD**.
+
+-**HTML** y **CSS**.
+
+-**Xquery**.
+
+-**Boostrap**.
+
 
 Ademas se lo basico de Programas en java ya en orientacion a objetos es cuando me pierdo.
 
