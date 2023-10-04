@@ -27,4 +27,4 @@ Seria poder terminar el grado para poder empezar en el mundo laboral por que con
 
 
 #### **Link**
-(**Linkedin**)[https://www.linkedin.com/in/antonio-s%C3%A1nchez-bustos-291302269/]
+[**Linkedin**](https://www.linkedin.com/in/antonio-s%C3%A1nchez-bustos-291302269/)
