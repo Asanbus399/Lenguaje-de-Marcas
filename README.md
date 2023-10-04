@@ -4,7 +4,7 @@
 ![YO](1668067889737.jpg)
 
 
-Me llamo **Antonio Sánchez Bustos**, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
+<span style=¨color: Green¨>Me llamo **Antonio Sánchez Bustos**</span>, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
 
 Hice el primer año de **_Desarrollo de aplicaciones multiplataforma_** pero no lo terminé.
 
@@ -14,7 +14,7 @@ Sobre mis conocimientos en esta asignatura he visto de lenguaje de marcas los si
 
 -**XML** y **XSD**.
 
--**HTML** y **CSS**.
+-**HTML y **CSS**.
 
 -**Xquery**.
 
