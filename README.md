@@ -1,6 +1,9 @@
 ## **Presentacion**
 
 
+![YO](1668067889737.jpg)
+
+
 Me llamo Antonio Sánchez Bustos, Tengo 24 años vengo del Grado superior de Sistemas microinfoormatico y redes.
 
 Hice el primer año de Desarrollo de aplicaciones multiplataforma pero no lo terminé.
